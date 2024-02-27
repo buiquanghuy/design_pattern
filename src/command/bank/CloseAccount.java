@@ -1,4 +1,4 @@
-package command;
+package command.bank;
 
 public class CloseAccount implements Command {
 

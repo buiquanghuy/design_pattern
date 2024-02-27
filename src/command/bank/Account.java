@@ -1,4 +1,4 @@
-package command;
+package command.bank;
 
 public class Account {
   private String name;
